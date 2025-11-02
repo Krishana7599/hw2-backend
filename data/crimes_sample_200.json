@@ -1,0 +1,5357 @@
+[{
+	"_id": {
+		"$oid": "6906d309932549de9604044e"
+	},
+	"OFFENSE": "HOMICIDE",
+	"REPORT_DAT": {
+		"$date": "2025-06-30T04:00:00Z"
+	},
+	"START_DATE": {
+		"$date": "2010-09-15T00:45:00Z"
+	},
+	"END_DATE": {
+		"$date": "2010-09-14T04:00:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "7",
+	"PSA": "604",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 33",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.496Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.496Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604044f"
+	},
+	"OFFENSE": "HOMICIDE",
+	"REPORT_DAT": {
+		"$date": "2025-02-05T05:00:00Z"
+	},
+	"START_DATE": {
+		"$date": "2005-09-27T07:25:00Z"
+	},
+	"END_DATE": {
+		"$date": "2005-09-27T07:26:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "706",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.496Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.496Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040450"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-18T13:04:40Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-18T10:56:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040451"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-21T21:07:33Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-21T18:57:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-21T18:59:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040452"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-27T10:01:19Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-27T09:33:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-27T09:35:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "404",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 18",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040453"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-01-27T21:31:17Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-23T21:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-27T05:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040454"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-28T13:19:36Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-27T22:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-27T22:31:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040455"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-29T02:13:01Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-28T22:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-28T23:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040456"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-01-29T23:16:25Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-29T20:50:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-29T21:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "103",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040457"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-01-30T14:59:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-29T20:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-30T14:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040458"
+	},
+	"OFFENSE": "BURGLARY",
+	"REPORT_DAT": {
+		"$date": "2025-01-31T14:07:05Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-31T07:50:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-31T10:50:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "404",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 18",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040459"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-31T14:29:54Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-31T13:31:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-31T14:30:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 40",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045a"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-01-31T21:28:07Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-31T17:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-31T20:20:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "307",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045b"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-02-01T07:53:44Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-01T02:40:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-01T05:24:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045c"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-01T14:33:02Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-27T23:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-28T12:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "605",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045d"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-01T14:16:47Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-01T13:55:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-01T14:05:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045e"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-02T01:17:12Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-01T23:29:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-01T23:55:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604045f"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-03T02:48:36Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-02T22:54:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-03T00:02:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040460"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-03T09:00:09Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-02T18:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-03T07:00:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "308",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040461"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-05T14:17:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-04T11:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-05T14:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040462"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-05T17:29:37Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-05T15:58:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-05T16:05:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "405",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 20",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040463"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-02-06T02:04:43Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-05T20:45:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-05T20:50:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "105",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040464"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-06T00:45:00Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-05T23:34:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-06T00:10:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "304",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040465"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-07T18:47:00Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-07T14:49:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-07T16:41:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040466"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-08T05:10:20Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-08T02:50:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-08T03:58:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040467"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-09T04:24:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-09T03:50:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "503",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 22",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040468"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-11T02:31:22Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-19T08:30:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040469"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-02-11T06:51:59Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-11T04:47:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "704",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046a"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-13T01:26:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-13T00:06:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-13T01:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046b"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-13T21:41:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-13T17:41:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-13T18:51:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "102",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046c"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-14T06:18:00Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-13T15:40:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-13T16:49:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "202",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 11",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046d"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-15T17:23:13Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-15T16:29:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-15T17:23:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046e"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-15T22:19:49Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-15T19:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-15T21:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "205",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 13",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604046f"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-15T23:53:46Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-06T04:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-06T19:18:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "702",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 36",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040470"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-02-19T00:19:15Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-18T20:25:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "GUN",
+	"WARD": "1",
+	"PSA": "408",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040471"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-19T21:19:28Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-19T20:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-19T21:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040472"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-21T03:23:25Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-21T00:07:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-21T01:37:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040473"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-02-21T04:53:01Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-19T02:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-21T04:30:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "503",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 24",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040474"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-21T16:11:56Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-21T16:04:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-21T16:06:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "104",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040475"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-22T20:21:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-17T17:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-17T18:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040476"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-23T22:31:12Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-23T21:24:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-23T22:05:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "505",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 22",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040477"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-02-24T09:53:37Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-24T06:18:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-24T06:30:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "301",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040478"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-24T18:13:00Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-24T03:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-24T05:10:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040479"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-24T20:30:07Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-22T19:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-24T16:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "601",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 30",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047a"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-26T23:55:55Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-24T23:06:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-24T23:37:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "703",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 37",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047b"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-02-27T20:26:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-27T16:25:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-27T16:40:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 16",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047c"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-02-28T06:04:40Z"
+	},
+	"START_DATE": {
+		"$date": "2025-02-28T05:52:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-02-28T06:04:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047d"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-02T20:22:06Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-02T00:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-02T20:20:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "105",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047e"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-03T05:54:33Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-02T20:47:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-02T21:38:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604047f"
+	},
+	"OFFENSE": "BURGLARY",
+	"REPORT_DAT": {
+		"$date": "2025-01-03T09:11:59Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-03T08:27:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-03T09:00:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "503",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 24",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040480"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-06T02:31:52Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-06T01:32:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-06T01:34:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "608",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 31",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040481"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-06T09:44:38Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-06T08:49:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-06T08:52:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040482"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-08T01:25:58Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-07T21:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-07T22:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "104",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040483"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-08T19:40:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-08T17:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-08T17:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "106",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040484"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-08T21:17:42Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-08T20:52:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-08T20:59:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040485"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-01-10T08:15:37Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-10T06:57:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-10T08:10:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "KNIFE",
+	"WARD": "8",
+	"PSA": "708",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040486"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-13T01:07:15Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-12T23:36:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-13T01:06:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040487"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-01-14T13:27:04Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-13T15:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-14T13:28:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040488"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-14T18:22:44Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-14T07:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-14T07:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040489"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-14T20:08:16Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-14T17:52:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-14T20:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048a"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-15T21:47:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-15T19:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-15T20:34:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048b"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-16T00:54:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-15T23:52:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "505",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 22",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048c"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-16T12:10:02Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-16T11:01:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-16T11:31:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "104",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048d"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-01-17T20:50:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-17T19:43:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-17T20:15:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 16",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048e"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-01-17T21:55:38Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-17T19:57:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-17T21:05:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "504",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 20",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604048f"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-24T14:54:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-24T03:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-24T08:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040490"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-25T00:46:18Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-24T21:58:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-24T23:01:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040491"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-25T08:50:06Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-25T02:34:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-26T02:35:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "606",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 35",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040492"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-25T23:51:09Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-25T19:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-25T20:15:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 16",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040493"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-27T14:01:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-27T12:38:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-27T12:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "105",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040494"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-28T20:05:18Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-28T19:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-28T19:45:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "303",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 1",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040495"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-04-03T01:54:36Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-30T07:12:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-30T08:27:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "307",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040496"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-04-02T19:50:24Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-02T19:20:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-02T19:49:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040497"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-03T14:45:55Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-03T02:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-03T12:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040498"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-03T17:31:29Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-03T16:49:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-03T17:20:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "303",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 1",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040499"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-05T00:12:23Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-04T23:34:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-05T00:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "503",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 20",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049a"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-05T05:52:40Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-05T05:14:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-05T05:50:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "307",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049b"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-04-06T02:08:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-04T04:15:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-04T06:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.497Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049c"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-15T03:09:37Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-14T21:02:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-14T21:39:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "103",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049d"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-16T17:49:33Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-13T00:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-15T06:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049e"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-17T06:18:47Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-17T03:24:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-17T04:40:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "601",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 29",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604049f"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-04-18T16:34:34Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-18T15:49:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a0"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-18T20:28:52Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-18T17:47:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-18T20:11:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "705",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a1"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-04-19T05:44:16Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-19T04:53:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-19T05:40:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "502",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a2"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-08T21:51:27Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-08T12:55:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-08T14:07:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 16",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a3"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-09T07:06:42Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-08T21:11:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-09T05:02:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "103",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a4"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-04-09T21:18:54Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-09T19:22:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-09T20:11:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "GUN",
+	"WARD": "7",
+	"PSA": "603",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 32",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a5"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-09T21:01:14Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-07T20:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-09T20:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a6"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-09T23:08:50Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-09T20:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-09T20:49:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a7"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-04-10T09:01:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-10T07:11:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-10T08:58:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "704",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a8"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-13T11:53:47Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-13T10:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-13T10:51:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404a9"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-04-14T21:46:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-14T14:34:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-14T18:45:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "708",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404aa"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-22T13:17:52Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-22T11:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-22T11:50:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ab"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-23T16:36:08Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-23T04:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-23T05:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "303",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 1",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ac"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-27T18:08:44Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-27T14:17:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-27T15:54:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "708",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ad"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-04-30T23:16:31Z"
+	},
+	"START_DATE": {
+		"$date": "2025-04-30T23:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-04-30T23:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ae"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-02T23:16:49Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-02T19:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-02T23:01:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "502",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404af"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-03T22:00:22Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-03T20:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-03T21:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "306",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b0"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-03T23:35:01Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-03T22:12:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-03T23:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "704",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b1"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-05-04T16:26:53Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-04T15:43:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "GUN",
+	"WARD": "1",
+	"PSA": "304",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b2"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-05-07T15:51:40Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-07T14:43:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-07T14:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "702",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 36",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b3"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-05-07T19:17:31Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-07T17:46:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-07T18:03:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b4"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-08T13:34:04Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-08T03:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-08T11:50:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "107",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b5"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-08T23:20:08Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-04T01:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-04T14:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "201",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 10",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b6"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-10T23:59:47Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-10T23:36:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-11T00:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b7"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-12T07:40:15Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-12T07:02:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-12T07:22:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b8"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-12T16:11:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-12T15:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-12T16:10:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404b9"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-13T17:18:31Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-13T16:15:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-13T16:16:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ba"
+	},
+	"OFFENSE": "SEX ABUSE",
+	"REPORT_DAT": {
+		"$date": "2025-03-24T04:47:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-24T02:00:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "107",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404bb"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-02T10:18:29Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-02T09:28:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-02T10:00:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "301",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404bc"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-02T15:41:48Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-02T14:41:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "404",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 18",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404bd"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-06T22:49:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-02T23:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-03T01:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404be"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-07T22:57:24Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-07T17:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-07T21:16:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "205",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 13",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404bf"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-03-08T10:35:12Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-08T10:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-08T10:35:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "702",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 36",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c0"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-08T16:41:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-08T06:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-08T14:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c1"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-03-10T01:58:55Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-09T19:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-09T21:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "703",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 37",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c2"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-10T07:41:19Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-10T06:25:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "603",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 32",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c3"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-10T14:21:13Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-10T13:15:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-10T14:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "KNIFE",
+	"WARD": "5",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c4"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-11T01:59:07Z"
+	},
+	"START_DATE": {
+		"$date": "2025-01-30T13:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-01-30T16:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c5"
+	},
+	"OFFENSE": "BURGLARY",
+	"REPORT_DAT": {
+		"$date": "2025-03-13T16:16:33Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-12T06:29:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-12T06:52:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "203",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 12",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c6"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-14T14:27:40Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-14T13:41:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c7"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-16T05:03:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-16T03:46:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-16T04:30:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "308",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c8"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-16T20:06:44Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-16T19:26:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-16T20:06:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "201",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 10",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404c9"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-17T07:04:00Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-16T18:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-17T02:05:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ca"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-18T13:21:45Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-18T12:53:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-18T13:20:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404cb"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-03-18T22:37:08Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-18T21:16:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-18T22:12:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404cc"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-19T17:34:13Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-19T10:50:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-19T11:23:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404cd"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-20T01:08:35Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-19T23:54:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-20T00:52:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "103",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 9",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ce"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-21T00:14:15Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-20T22:45:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-20T22:55:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404cf"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-22T08:32:52Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-22T07:41:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "704",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d0"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-03-23T04:01:14Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-23T01:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-23T01:35:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d1"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-03-24T00:45:16Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-23T20:02:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-23T20:49:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d2"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-03-24T01:45:30Z"
+	},
+	"START_DATE": {
+		"$date": "2025-03-24T00:48:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-03-24T01:34:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "708",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d3"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-06-21T12:05:55Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-21T05:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-21T11:40:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "GUN",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d4"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-22T17:24:53Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-20T21:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-21T15:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "108",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d5"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-22T18:50:18Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-22T18:22:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-22T18:36:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "307",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d6"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-25T15:53:27Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-25T15:11:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-25T15:25:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "604",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 33",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d7"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-26T20:06:16Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-26T13:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-26T18:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "107",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d8"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-28T08:42:23Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-28T05:57:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-28T08:30:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "602",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 31",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404d9"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-28T15:09:43Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-21T02:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-28T13:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404da"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-28T19:14:19Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-26T21:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-28T10:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "304",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404db"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-29T02:10:03Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-28T23:47:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-29T00:47:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "204",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 14",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404dc"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-29T22:53:13Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-29T21:36:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "406",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 19",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404dd"
+	},
+	"OFFENSE": "BURGLARY",
+	"REPORT_DAT": {
+		"$date": "2025-06-30T13:56:58Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-30T03:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-30T12:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "301",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404de"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-06-30T17:06:36Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-30T16:02:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "GUN",
+	"WARD": "8",
+	"PSA": "705",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 38",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404df"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-01T01:32:25Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-30T22:46:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-30T23:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "602",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 30",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e0"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-01T01:52:30Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-01T00:16:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-01T01:39:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "601",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 30",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e1"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-02T01:21:22Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-01T19:29:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-01T20:06:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e2"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-07-03T01:01:34Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-02T20:53:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-02T22:37:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "706",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e3"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-02T23:45:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-02T23:11:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-02T23:15:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e4"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-03T23:16:24Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-03T22:40:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-03T23:16:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "602",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 31",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e5"
+	},
+	"OFFENSE": "ASSAULT W/DANGEROUS WEAPON",
+	"REPORT_DAT": {
+		"$date": "2025-07-06T02:27:49Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-06T00:12:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-06T02:15:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "GUN",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e6"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-07T15:48:46Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-07T04:00:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "703",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 37",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e7"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-07-10T18:10:15Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-10T14:51:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-10T15:56:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e8"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-07-11T18:20:25Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-11T17:27:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404e9"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-07-15T15:16:02Z"
+	},
+	"START_DATE": {
+		"$date": "2025-07-11T12:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-07-11T17:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ea"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-15T00:39:03Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-14T22:10:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-14T22:21:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404eb"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-15T13:58:50Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-15T13:17:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-15T13:22:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ec"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-23T11:33:17Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-16T13:59:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-16T14:51:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "706",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ed"
+	},
+	"OFFENSE": "BURGLARY",
+	"REPORT_DAT": {
+		"$date": "2025-05-16T18:42:57Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-16T17:33:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-16T18:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ee"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-18T02:46:11Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-18T00:31:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-18T01:20:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "401",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ef"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-19T00:57:32Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-18T18:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-18T21:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f0"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-19T21:41:26Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-15T18:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-19T21:41:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "201",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 10",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f1"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-23T18:45:14Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-21T18:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-21T18:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f2"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-23T00:40:48Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-22T23:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-23T00:22:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "604",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 33",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f3"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-23T20:31:17Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-17T07:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-17T08:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "409",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f4"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-23T22:45:45Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-23T20:32:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-23T21:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f5"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-25T19:35:24Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-06T18:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-06T18:30:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "502",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f6"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-25T22:32:23Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-25T21:17:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-25T21:40:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "302",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 2",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f7"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-27T18:36:38Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-27T17:48:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f8"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-05-27T22:48:39Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-27T20:54:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-27T22:35:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "GUN",
+	"WARD": "5",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404f9"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-05-29T15:21:35Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-29T11:16:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-29T11:17:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "207",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 5",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404fa"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-30T09:37:05Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-30T04:54:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-30T05:18:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "603",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 32",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404fb"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-30T15:18:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-30T13:25:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-30T14:41:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "706",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404fc"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-05T16:51:50Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-30T09:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-05T10:25:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404fd"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-06T03:21:58Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-06T02:35:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-06T02:38:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "308",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 21",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404fe"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-06-08T01:29:13Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-08T00:40:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "708",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de960404ff"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-10T02:39:12Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-09T19:58:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-09T21:51:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "101",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040500"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-10T17:04:20Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-04T16:20:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-04T16:24:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040501"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-11T13:36:27Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-06T15:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-06T16:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 7",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040502"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-11T16:08:55Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-11T14:27:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-11T16:09:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "607",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 34",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040503"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-11T19:12:18Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-11T18:27:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "505",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 22",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040504"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-12T11:21:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-11T20:30:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-19T09:13:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040505"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-13T08:52:19Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-13T02:42:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-13T03:07:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "104",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 25",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040506"
+	},
+	"OFFENSE": "ROBBERY",
+	"REPORT_DAT": {
+		"$date": "2025-06-13T08:09:24Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-13T06:15:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-13T08:09:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "7",
+	"PSA": "603",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 32",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040507"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-13T12:25:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-11T20:25:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-11T20:25:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "507",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040508"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-15T02:28:51Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-14T22:33:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-15T00:33:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "106",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040509"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-15T17:10:29Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-15T16:08:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-15T17:04:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "701",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 28",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050a"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-16T23:19:16Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-16T23:12:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "8",
+	"PSA": "705",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 39",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050b"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-17T03:34:31Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-12T04:01:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-12T22:00:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050c"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-06-17T11:24:59Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-16T23:15:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-17T10:45:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050d"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-17T16:47:28Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-06T17:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-06T18:00:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "3",
+	"PSA": "203",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 12",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050e"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-17T17:08:08Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-10T10:41:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-17T10:41:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "208",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 6",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de9604050f"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-17T19:22:11Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-17T18:34:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-17T18:37:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "1",
+	"PSA": "305",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 3",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040510"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-18T02:43:21Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-18T00:45:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-18T01:00:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.498Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040511"
+	},
+	"OFFENSE": "THEFT F/AUTO",
+	"REPORT_DAT": {
+		"$date": "2025-05-30T17:07:45Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-23T23:20:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-30T16:09:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "506",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040512"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-05-30T20:28:02Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-30T19:53:00Z"
+	},
+	"END_DATE": null,
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "6",
+	"PSA": "106",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 26",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040513"
+	},
+	"OFFENSE": "MOTOR VEHICLE THEFT",
+	"REPORT_DAT": {
+		"$date": "2025-06-01T03:08:56Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-31T09:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-05-31T21:05:00Z"
+	},
+	"SHIFT": "MIDNIGHT",
+	"METHOD": "OTHERS",
+	"WARD": "4",
+	"PSA": "402",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 17",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040514"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-02T16:06:01Z"
+	},
+	"START_DATE": {
+		"$date": "2025-06-02T13:00:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-02T13:10:00Z"
+	},
+	"SHIFT": "DAY",
+	"METHOD": "OTHERS",
+	"WARD": "5",
+	"PSA": "501",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 23",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "6906d309932549de96040515"
+	},
+	"OFFENSE": "THEFT/OTHER",
+	"REPORT_DAT": {
+		"$date": "2025-06-03T02:30:45Z"
+	},
+	"START_DATE": {
+		"$date": "2025-05-29T22:45:00Z"
+	},
+	"END_DATE": {
+		"$date": "2025-06-02T13:25:00Z"
+	},
+	"SHIFT": "EVENING",
+	"METHOD": "OTHERS",
+	"WARD": "2",
+	"PSA": "209",
+	"NEIGHBORHOOD_CLUSTER": "Cluster 8",
+	"__v": 0,
+	"createdAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	},
+	"updatedAt": {
+		"$date": "2025-11-02T03:42:01.499Z"
+	}
+}]
+
